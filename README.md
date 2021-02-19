@@ -7,3 +7,6 @@ Day 1	Read the Document "The AgeGuess database, an open online resource on chron
 Day 2	Basic Analysis of the five files and basic Visualizations of the data
 Day 3	Searching Errors in the tables and building a new column to compare the Age Guessing to Real Age 
 Day 4	Join some of the tables to create queries and create Rankings by points, gender, country 
+1. [My First Title](#markdown-header-my-first-title)
+
+2. [My Second Title](#markdown-header-my-second-title)
