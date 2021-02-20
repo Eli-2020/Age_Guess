@@ -35,20 +35,3 @@ Join some of the tables to create queries and create Rankings by points, gender,
 ## Licensing
 
 
-
-## Usage
-
-
-
-
-## Contributing
-
-
-
-## Credits
-
-
-
-## License
-
-
