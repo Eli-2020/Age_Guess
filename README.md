@@ -28,21 +28,21 @@ Join some of the tables to create queries and create Rankings by points, gender,
 
 ## Installation guide
 
-If you use conda, you can install 
+If you use conda, you can install: 
 
-conda install pandas
+   conda install pandas
 
-conda install seaborn
+   conda install seaborn
 
-conda install numpy
+   conda install numpy
 
-If you use pip, you can install 
+If you use pip, you can install: 
 
-pip install pandas
+   pip install pandas
 
-pip install seaborn
+   pip install seaborn
 
-pip install numpy
+   pip install numpy
 
 ## Credits
 
