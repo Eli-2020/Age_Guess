@@ -29,25 +29,25 @@ Join some of the tables to create queries and create Rankings by points, gender,
 
 ## Results
 1. Day 1 
-Exploration of files: ag_gamers.csv, ag_guess.csv, ag_photos.csv, ag_report.csv, ag_quality.csv
-functions: shape, columns, dtypes, isnull().sum()  
-Graphs: Type of Gender(gamers), Type of Gender(photos), Distribution of Age (photos)    
+* Exploration of files: ag_gamers.csv, ag_guess.csv, ag_photos.csv, ag_report.csv, ag_quality.csv
+* functions: shape, columns, dtypes, isnull().sum()  
+* Graphs: Type of Gender(gamers), Type of Gender(photos), Distribution of Age (photos)    
 2. Day 2 
-functions: value_counts, replace, groupby, sum, describe, query
-New columns: "qualiyty_category"(change number to categories), "outG_category"(absolute value of the out guess)   
-Graphs: Type of Quality(quality), Type of Ethnicity(gamers), Type of Ethnicity(photos), Measure of Difference with Real age(guess) 
+* functions: value_counts, replace, groupby, sum, describe, query
+* New columns: "qualiyty_category"(change number to categories), "outG_category"(absolute value of the out guess)   
+* Graphs: Type of Quality(quality), Type of Ethnicity(gamers), Type of Ethnicity(photos), Measure of Difference with Real age(guess) 
 Top 20 gamers by Total Points(gamers), Top 20 g by Total correct guess(gamers) 
 3. Day 3 
-functions: query, round, value_counts
-New columns: "real age"(calculation of the age guess plus out of year guess), 
-Graphs: Real age vs Perceived age(guess), Histogram of Accuracy(guess), Histogram of Real Age(guess), Histogram of Real Age > 0(guess)
-Histogram of Guess Age > 0(guess), Measure of Difference with Real age(guess), Real Age == Guess Age(guess) 
+* functions: query, round, value_counts
+* New columns: "real age"(calculation of the age guess plus out of year guess), 
+* Graphs: Real age vs Perceived age(guess), Histogram of Accuracy(guess), Histogram of Real Age(guess), Histogram of Real Age > 0(guess)
+* Histogram of Guess Age > 0(guess), Measure of Difference with Real age(guess), Real Age == Guess Age(guess) 
 4. Day 4 
-functions: query, merge, dtypes, isnull().sum(), .loc, .notnull(), .str.split(), fillna(). pd.cut()
-Merge tables: gamers+photos(uid), gamers+photos(uid), photos+guess(photo_id), 
-New columns: poss_age_gamer_in_moment, age_gamer_in_moment, year_in_moment, Ranking_by_Points(Total Points), Ranking_g(Gender), 
+* functions: query, merge, dtypes, isnull().sum(), .loc, .notnull(), .str.split(), fillna(). pd.cut()
+* Merge tables: gamers+photos(uid), gamers+photos(uid), photos+guess(photo_id), 
+* New columns: poss_age_gamer_in_moment, age_gamer_in_moment, year_in_moment, Ranking_by_Points(Total Points), Ranking_g(Gender), 
 Ranking_C(Country), year_created, year_photo_uploaded  
-Graphs: Real Age == Distribution of Birth_year by Decades(gamers), Total New Gamers per Year(gamers), Total New Photos per Year(photos),
+* Graphs: Real Age == Distribution of Birth_year by Decades(gamers), Total New Gamers per Year(gamers), Total New Photos per Year(photos),
 Birth decades by Gender(photos), Mean points by Country(gamers), Max points by Country(gamers), Performance by Countries(gamers)
 
 ## Installation guide
