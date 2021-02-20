@@ -1,14 +1,16 @@
 Table of Content
 ================
-
-  * [Age Guess](#age-guess)
+* [Age Guess](#age-guess)
+  * [Description](#description)
   * [Planning by day](#planning-by-day)
   * [Installation guide](#installation-guide)
   * [Credits](#credits)
   * [Licensing](#licensing)
 
 
-## Age Guess
+# Age Guess
+
+## Description
 This is an age analysis project of some photographs in which some people are, these photographs are presented to the players, who must guess the age of the person at the time of the photograph.
 In the project, five files are delivered that have different types of information about the participants, the photographs and the access to them, in addition a number of points is included for each of the people who try to guess the ages of the people.
 The data analysis was done in a period of four days and that is why in the code to be presented it can be seen that each of the calculations carried out corresponds to a day that is duly marked with a title so that the sequence of the analysis is understood.
