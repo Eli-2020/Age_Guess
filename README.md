@@ -41,7 +41,7 @@ Top 20 gamers by Total Points(gamers), Top 20 g by Total correct guess(gamers)
 * functions: query, round, value_counts
 * New columns: "real age"(calculation of the age guess plus out of year guess), 
 * Graphs: Real age vs Perceived age(guess), Histogram of Accuracy(guess), Histogram of Real Age(guess), Histogram of Real Age > 0(guess)
-* Histogram of Guess Age > 0(guess), Measure of Difference with Real age(guess), Real Age == Guess Age(guess) 
+Histogram of Guess Age > 0(guess), Measure of Difference with Real age(guess), Real Age == Guess Age(guess) 
 4. Day 4 
 * functions: query, merge, dtypes, isnull().sum(), .loc, .notnull(), .str.split(), fillna(). pd.cut()
 * Merge tables: gamers+photos(uid), gamers+photos(uid), photos+guess(photo_id), 
