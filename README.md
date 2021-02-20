@@ -50,8 +50,8 @@ the file is in notebook format "Age_Guess_Analysis.pynb"
 
 The study was developed by a group of scientists and
 the information of it is available at:
-Review: SCIENTIFIC DATA
-https://doi.org/10.1038/s41597-019-0245-9
+ * Review: SCIENTIFIC DATA
+ * https://doi.org/10.1038/s41597-019-0245-9
 
 ## Licensing
 
