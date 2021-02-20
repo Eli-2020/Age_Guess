@@ -55,4 +55,7 @@ the information of it is available at:
 
 ## Licensing
 
+GNU LESSER GENERAL PUBLIC LICENSE
+                       
+Version 2.1, February 1999
 
