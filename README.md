@@ -45,8 +45,13 @@ If you use pip, you can install:
    * pip install numpy
 
 ## Credits
+the analysis of the database was carried out by Eliseo B.
+the file is in notebook format "Age_Guess_Analysis.pynb"
 
-
+A group of scientist run a study and published
+The information of the Study is available at:
+Review: SCIENTIFIC DATA
+https://doi.org/10.1038/s41597-019-0245-9
 
 ## Licensing
 
